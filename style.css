@@ -1,0 +1,23 @@
+body {
+  margin: 0px;
+  background-color: black;
+}
+img {
+  display: inline-block;
+  height: 100px;
+  border-radius: 6px;
+  line-height: 1.2rem;
+}
+h4 {
+  color: #e5e5e5;
+}
+.jumbotron {
+  color: azure;
+  background-image: url("https://occ-0-475-1168.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABeeUb9Sm-V5OkzipyqbI6Gw0_ptHtXdEmJBw7_e2my0Uqyami91Wo1qnPdQ_0coY7ll2-IZ-3vx6picYZAtbKJxrIW59.webp?r=9a2");
+}
+#popular {
+  box-sizing: border-box;
+}
+#trending {
+  box-sizing: border-box;
+}
